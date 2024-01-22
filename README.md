@@ -32,10 +32,16 @@
 
 
 Sources / Inspiration:
+
 [ThreeJS Example, Bloom Effect Pass](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_unreal_bloom_selective.html)
+
 [Audio Visualizer Stream](https://github.com/simondevyoutube/ThreeJS_Tutorial_3DSound/blob/main/main.js)
 
 More about the Audio Analyser: 
+
 [Audio Analyser Documentation](https://threejs.org/docs/#api/en/audio/AudioAnalyser)
+
 [Web Audio API Analyser Node](https://developer.mozilla.org/en-US/docs/Web/API/AnalyserNode)
+
 [Web Audio API FFT Data](https://developer.mozilla.org/en-US/docs/Web/API/AnalyserNode/getByteFrequencyData)
+
